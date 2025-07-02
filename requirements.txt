@@ -1,0 +1,4 @@
+sentence-transformers
+pdfplumber
+tf-keras
+polars-u64-idx
